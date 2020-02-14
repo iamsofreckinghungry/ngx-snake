@@ -9,11 +9,11 @@ export const CONTROLS = {
 
 export const COLORS = {
   GAME_OVER: '#D24D57',
-  FRUIT: '#EC644B',
-  HEAD: '#336E7B',
-  BODY: '#C8F7C5',
-  BOARD: '#86B5BD',
-  OBSTACLE: '#383522'
+  FRUIT: '#FF8000',
+  HEAD: '#000FFF',
+  BODY: '#47AEFF',
+  BOARD: '#000000',
+  OBSTACLE: '#888888'
 };
 
 export const GAME_MODES = {

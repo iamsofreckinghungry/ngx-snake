@@ -268,7 +268,7 @@ export class AppComponent {
       let j = 1;
       do {
         this.addObstacles();
-      } while (j++ < 9);
+      } while (j++ < 30);
     }
 
     this.resetFruit();
